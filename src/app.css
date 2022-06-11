@@ -1,0 +1,35 @@
+/* src/app.css */
+
+@import 'normalize.css';
+
+body {
+    color: red;
+}
+
+
+#time{
+    color:#6f44e4f7;
+    width:80%;
+    height: 40px;
+    background-color:#e7e7e7;
+    margin:24px auto;
+    text-align: center;
+    font-size:2vw;
+    display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+.main{
+color:#ff2a00f7;
+width:80%;
+height: 300px;
+background-color:#e7e7e7;
+margin:24px auto;
+text-align: center;
+font-size:2vw;
+display: flex;
+    justify-content: center;
+    align-items: center;
+}
